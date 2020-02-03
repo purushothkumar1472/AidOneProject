@@ -13,6 +13,7 @@ public class AidService extends Service implements SensorEventListener {
     Sensor sensor;
     SensorManager sensorManager;
 
+
     public AidService() {
     }
 
